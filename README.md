@@ -1,5 +1,5 @@
 # Hyperblog  💚 
-An amazing blog relazied in the Platzi [Github course](https://platzi.com/clases/1557-git-github/"curso de Git y Github"). 
+An amazing blog relazied in the Platzi [Github course](https://platzi.com/clases/1557-git-github/"cursodeGityGithub"). 
 >Platzi Git and Github course is what I needed to be able to polish and improve my knowledge through commands since I was used to using only the github interface.
 >- Itzel Anahí Alonso García
 
