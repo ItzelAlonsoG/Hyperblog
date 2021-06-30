@@ -10,4 +10,4 @@ In this coruse saw a lot of things like:
 * A great practice.
 * Crazy tricks from the professor.
 
-And  like and as a kind reminder: ** this readme.md it is a gossip **.  Designed for the example. If you get here DONT TAKE IT SERIOUSLY y better go to [see the coruse](https://platzi.com/clases/1557-git-github/"averelcurso")
+And  like and as a kind reminder: **this readme.md it is a gossip**.  Designed for the example. If you get here DONT TAKE IT SERIOUSLY y better go to [see the coruse](https://platzi.com/clases/1557-git-github/"averelcurso")
