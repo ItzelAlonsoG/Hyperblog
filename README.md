@@ -11,4 +11,5 @@ In this coruse saw a lot of things like:
 * Crazy tricks from the professor.
 * Creado por el increíble Platzi Team
 Inlcuye ejemplos en WINDOWS, LINUX Y MAC.
+* Disponible para todas las edades.
 And  like and as a kind reminder: **this readme.md it is a gossip**.  Designed for the example. If you get here DONT TAKE IT SERIOUSLY y better go to [see the coruse](https://platzi.com/clases/1557-git-github/"averelcurso")
