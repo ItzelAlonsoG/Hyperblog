@@ -23,7 +23,7 @@ In this coruse saw a lot of things like:
   <img src = "https://github.com/ItzelAlonsoG/Hyperblog/blob/main/imagenes/dragon.png" width=800>
 </p>
 
-The excercise consisted in made a simple web site, with HTML and CSS and work with diferents versions of the proyect. For example What happends if two peoples works in one proyect or file? We need to make push requests to someone who is checks all the commits or changes maded, in the history of commits it can be apreshiated that other git account worked in the proyect.
+The excercise consisted in made a simple web site, with HTML and CSS and work with diferents versions of the proyect. For example What happends if two peoples works in one proyect or file? We need to make push requests to someone who checks all the commits or changes maded, in the history of commits it can be apreshiated that other git account worked in the proyect.
 
 
 # Information
