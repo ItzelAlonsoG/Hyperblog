@@ -11,13 +11,10 @@ An amazing blog relazied in the Platzi coruse.
 >- Itzel Anahí Alonso García
 
 **What is git?**
-> Git, Git, is a version control software designed by Linus Torvalds.
-In this coruse saw a lot of things like:
+> Git is a version control software designed by Linus Torvalds.
 
 **What is github?**
-> At a higher level, GitHub is a website and cloud service that helps developers store and manage their code, as well as keep track of and control any changes to this code. To understand exactly what GitHub is, you first need to know the two principles that connect it:
-> - Version control
-> - Git
+> At a higher level, GitHub is a website and cloud service that helps developers store and manage their code as well as keep track of and control any changes to this code.
 
 # Git concepts
 
